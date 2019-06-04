@@ -1,0 +1,7 @@
+127.0.0.1 graph.facebook.com
+127.0.0.1 graph.instagramm.com
+127.0.0.1 d.la1-c1-frf.salesforceliveagent.com
+127.0.0.1 ocsp.comodoca.com
+127.0.0.1 update.am.de
+127.0.0.1 mqtt-mini.facebook.com
+127.0.0.1 graph.instagram.com
